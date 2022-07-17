@@ -35,3 +35,7 @@ out_*.pdf
 
 # font files
 **/*.ttf
+
+# build files
+app/bin
+app/build

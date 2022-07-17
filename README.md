@@ -1,5 +1,10 @@
 # pdfboxでの日本語サンプル
 
+fontファイルは同梱していません。
+
+IPAex明朝 ipaexm.ttfをダウンロードして、以下に配置する。
+- src/main/resources/ipaexm.ttf
+
 ## PdfSample1.java PDF新規作成
 
 シンプルにPDF作成。
